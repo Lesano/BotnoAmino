@@ -1,0 +1,2 @@
+# BotnoAmino
+Bot para Aminoapps.
