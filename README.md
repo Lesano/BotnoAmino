@@ -1,8 +1,8 @@
 # BotnoAmino
-Bot para Aminoapps.
+Tutorial para criar bot para o AminoApps em Python usando a api do Slimakoi.
 
 
 Como usar?
-Veje o vídeo. https://youtu.be/BZ8TLqyy5Pk
+Veja essa playlist: https://youtube.com/playlist?list=PLUipkXAWEf7KSF33cb3a9tojVhUDVVBu_
 
 Vocês podem sugerir ideias ou mesmo adicionar coisas aqui.
